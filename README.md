@@ -10,6 +10,6 @@ Step 2:- ./change.sh
 
 step 3:- ctrl+b and then press d
 
-step 4:- to again access the tmux session (tmux a or tmux a -t <pid of tmux session>) HELP:- you can check tmux session id by 'tmux ps'
+step 4:- to again access the tmux session (tmux a or tmux a -t 'pid of tmux session') HELP:- you can check tmux session id by 'tmux ps'
  
   
